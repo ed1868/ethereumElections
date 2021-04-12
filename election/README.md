@@ -5,9 +5,7 @@ Build your first decentralized application, or Dapp, on the Ethereum Network wit
 Full Free Video Tutorial:**
 https://youtu.be/3681ZYbDSSk
 
-## 2019 Updated Code
-https://github.com/dappuniversity/election/tree/2019_update
-
+## 2021 Updated Code
 Follow the steps below to download, install, and run this project.
 
 ## Dependencies
